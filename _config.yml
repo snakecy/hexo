@@ -70,6 +70,7 @@ theme: next
 Plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
+- hexo-git-backup
 
 #sitemap
 sitemap:
@@ -95,4 +96,4 @@ deploy:
 backup:
   type: git
   repository: https://github.com/snakecy/snakecy.github.io.git
-  branch: master
+  branch: hexo
