@@ -96,5 +96,4 @@ deploy:
 backup:
   type: git
   repository:
-    github: git@github.com:snakecy/snakecy.github.io.git
-  branch: hexo
+    github: git@github.com:snakecy/snakecy.github.io.git , hexo
