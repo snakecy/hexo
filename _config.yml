@@ -94,6 +94,5 @@ deploy:
 ## https://github.com/coneycode/hexo-git-backup
 backup:
   type: git
-  repository:
-    github: https://github.com/snakecy/snakecy.github.io.git
+  repository: https://github.com/snakecy/snakecy.github.io.git
   branch: hexo
