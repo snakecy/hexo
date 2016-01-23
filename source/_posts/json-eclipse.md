@@ -5,7 +5,7 @@ categories: open-source
 tags: [Json, Java, Eclipse]
 ---
 
-Read more ......
+Describe how to parser Json flows in (eclipse)  Java, also in Scala
 <!--more-->
 
 ## Json in Java

@@ -5,7 +5,7 @@ categories: cloud-tech
 tags: [Spark, Hadoop]
 ---
 
-Read more .....
+Construct the platform for Big Data project
 <!--more-->
 
 ## Configure Zookeeper

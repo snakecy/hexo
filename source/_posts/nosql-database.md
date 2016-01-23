@@ -5,7 +5,7 @@ categories: open-source
 tags: [NoSQL, Redis]
 ---
 
-Read more ......
+NoSQL database for a key-value DB Redis
 <!--more-->
 
 * Quick Start [Redis](http://redis.io/topics/quickstart)

@@ -5,7 +5,7 @@ categories: open-source
 tags: [Python, Spyder, Mac]
 ---
 
-Read more ......
+The spyder tool of Python GUI works on Max OS
 <!--more-->
 
 ## Install Python
