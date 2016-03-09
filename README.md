@@ -8,7 +8,7 @@ hexo blog raw source
 ``` bash
 git add .
 git commit -m "message"
-git remote add origin https://github.com/snakecy/hexo.git
+git remote add origin https://github.com/snakecy/hexo.git (if it's already exsit)
 git push -u origin master
 ```
 
