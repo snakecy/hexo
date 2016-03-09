@@ -17,7 +17,7 @@ git push -u origin master
 - git clone *.git
 - in the commandline 
   - npm install hexo
-  - hexo init
+  - hexo init (not in use)
   - npm install
   - npm install hexo-deployer-git
   - npm install (other plugins)
