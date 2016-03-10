@@ -25,10 +25,10 @@ since: 2016
 # Remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  categories: /categories
-  about: /about
+  # categories: /categories
   archives: /archives
-  tags: /tags
+  about: /about
+  # tags: /tags
   # commonweal: /404.html
   # sitemap: /sitemap.xml
 
@@ -42,10 +42,10 @@ menu_icons:
   enable: true
   # Icon Mapping.
   home: home
-  about: user
-  categories: th
-  tags: tags
   archives: archive
+  about: user
+  # categories: th
+  # tags: tags
   # commonweal: heartbeat
 
 # ---------------------------------------------------------------
