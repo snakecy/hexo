@@ -29,7 +29,7 @@ menu:
   about: /about
   archives: /archives
   tags: /tags
-  commonweal: /404.html
+  # commonweal: /404.html
   # sitemap: /sitemap.xml
 
 
@@ -46,16 +46,16 @@ menu_icons:
   categories: th
   tags: tags
   archives: archive
-  commonweal: heartbeat
+  # commonweal: heartbeat
 
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
-#scheme: Pisces
+# scheme: Muse
+# scheme: Mist
+scheme: Pisces
 
 # ---------------------------------------------------------------
 # Sidebar Settings
