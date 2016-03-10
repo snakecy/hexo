@@ -83,6 +83,13 @@ feed:
   limit: 20
 
 
+# title, chinese available
+links_title: Links
+# links
+links:
+  Data Topics: http://snakecy.github.io/topics
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

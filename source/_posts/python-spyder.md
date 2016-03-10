@@ -6,7 +6,7 @@ tags: [Python, Spyder, Mac]
 ---
 
 The spyder tool of Python GUI works on Max OS
-<!--more-->
+
 
 ## Install Python
 
@@ -22,6 +22,8 @@ make
 sudo make install
 > then run ./python in terminal
 ```
+
+<!--more-->
 
 ### Install Python 3.4.1 on Mac
 

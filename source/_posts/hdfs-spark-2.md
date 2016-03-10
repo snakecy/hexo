@@ -6,7 +6,6 @@ tags: [Spark, Hadoop]
 ---
 
 Construct the platform for Big Data project
-<!--more-->
 
 ## Configure Zookeeper
 - on each server, configure the java environment
@@ -17,6 +16,8 @@ $ cd zookeeper/conf
 $ cp zoo_sample.cfg zoo.cfg
 $ vi zoo.cfg
 ```
+
+<!--more-->
 
 | Server role     | 	example-data01（namenode1）| 	example-data02（namenode2）|  	example-data03（datanode1）	 |  example-data04（datanode2）|
 | ---------------- | : ---------------------------------: | : ---------------------------------: | : ---------------------------------: | ---------------------------------: |

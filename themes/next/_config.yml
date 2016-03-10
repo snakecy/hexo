@@ -73,8 +73,8 @@ social_icons:
   # Icon Mappings
   GitHub: github
   LinkedIn: linkedin
-  Twitter: twitter
-  Weibo: weibo
+  # Twitter: twitter
+  # Weibo: weibo
 
 
 # Sidebar Avatar

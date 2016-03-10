@@ -6,7 +6,6 @@ tags: [Json, Java, Eclipse]
 ---
 
 Describe how to parser Json flows in (eclipse)  Java, also in Scala
-<!--more-->
 
 ## Json in Java
 
@@ -23,6 +22,8 @@ commons-logging-1.1.1.jar  or commons-logging-1.2.jar
 ezmorph-1.0.3.jar  or ezmorph-1.0.6.jar
 json-lib-2.2.2-jdk15.jar  or json-lib-2.4-jdk15.jar
 ```
+
+<!--more-->
 
 - [Json-smart](http://www.cnblogs.com/zhenjing/p/json-smart.html)
   - Compare with each json jar package [compare](https://code.google.com/p/json-smart/wiki/FeaturesTests)

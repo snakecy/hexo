@@ -6,7 +6,7 @@ tags: [NoSQL, Redis]
 ---
 
 NoSQL database for a key-value DB Redis
-<!--more-->
+
 
 * Quick Start [Redis](http://redis.io/topics/quickstart)
 
@@ -22,6 +22,9 @@ then : 127.0.0.1:6379> set test 1
 ``` bash
 wget http://download.redis.io/releases/redis-3.0.2.tar.gz
 ```
+
+<!--more-->
+
 
 * Or download
 ``` bash

@@ -6,7 +6,6 @@ tags: [Software]
 ---
 
 Summary the tools used in project, essential in big data direction 
-<!--more-->
 
 ## Tools
 - Database: MySQL, NOSQL(redis), Hive, HBase

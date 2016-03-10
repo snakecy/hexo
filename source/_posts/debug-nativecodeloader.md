@@ -1,6 +1,6 @@
 ---
 title: Resolve the debug problem of WARN NativeCodeLoader
-date: 2016-03-10 00:58:25
+date: 2016-02-10 00:58:25
 categories: cloud-tech
 tags: [Hadoop, Spark]
 ---
@@ -16,6 +16,9 @@ export HADOOP_HOME=/home/admin/hadoop
 #export LD_LIBRARY_PATH=$HADOOP_HOME/lib/native
 ```
 
+<!--more-->
+
+
 ``` bash
 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
@@ -26,9 +29,9 @@ WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRe
 
 Three ways to solve the problem
 
-- install libgfortran3
-- linstall libatlas3-base libopenblas-base
-- OpenBlase
+> install libgfortran3
+> linstall libatlas3-base libopenblas-base
+> OpenBlase
 
 
 * in sbt file: libraryDependencies += "com.github.fommil.netlib" % "all" % "1.1.2"
