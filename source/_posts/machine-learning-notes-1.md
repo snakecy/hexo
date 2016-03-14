@@ -1,6 +1,6 @@
 ---
 title: machine-learning-notes-1
-date: 2016-03-12 00:23:52
+date: 2016-01-16 00:23:52
 categories: cloud-tech
 tags: [Python, Machine Learning]
 ---
@@ -35,5 +35,7 @@ tags: [Python, Machine Learning]
 * Before install the required tools above, we need to install homebrew to finish the installation.
 
     - In mac terminal, run this
-
-        - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    ``` bash
+      /usr/bin/ruby \
+      -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    ```
