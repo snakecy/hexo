@@ -6,17 +6,15 @@ tags: [Scala, Spark]
 ---
 
 
-
-
 >****************************************************
-REST API & Velox
+Good Example: REST API & Velox
 [PPT](http://www.slideshare.net/dscrankshaw/veloxampcamp5-final)
 [Papre](http://arxiv.org/pdf/1409.3809v2.pdf)
 [Github](https://github.com/amplab/velox-modelserver)
 >****************************************************
 
-### Construct project, with SBT package, dependencies
-> The reference example project can be found on [my github](https://snakey.github.io)
+### Construct project, with SBT & dependencies
+> The reference example project can be found on [my github](https://snakecy.github.io)
 
 <!--more-->
 
