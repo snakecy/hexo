@@ -46,7 +46,7 @@ comments: false
   - D3.js (a little)
   - JavaScript
 
-> The related project can be found on [my github](https://snakecy.github.io)
+> The related project can be found on [my github](https://github.com/snakecy)
 
 ## Summary
 
