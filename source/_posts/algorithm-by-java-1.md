@@ -1,7 +1,7 @@
 ---
 title: algorithm-Binary-Search-01
 date: 2016-03-05 01:37:03
-categories: Algorithm
+categories: algorithm
 tags: [JAVA]
 ---
 
