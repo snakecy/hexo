@@ -2,10 +2,10 @@
 title: algorithm-Binary-Search-01
 date: 2016-03-05 01:37:03
 categories: algorithm
-tags: [JAVA]
+tags: [Java]
 ---
 
-[TOC]
+<!-- [TOC] -->
 
 ## Binary Search（二分查找）
 

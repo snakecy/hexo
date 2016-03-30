@@ -2,7 +2,7 @@
 title: algorithm-Sorting-2
 date: 2016-03-05 01:40:55
 categories: algorithm
-tags: [JAVA]
+tags: [Java]
 ---
 
 

@@ -2,7 +2,7 @@
 title: java-call-matlab
 date: 2016-03-06 01:49:37
 categories: open-source
-tags: [JAVA, MATLAB]
+tags: [Java, Matlab]
 ---
 
 [TOC]

@@ -2,7 +2,7 @@
 title: algorithm-L-BFGS
 date: 2016-03-15 01:56:22
 categories: algorithm
-tags: [JAVA]
+tags: [Java]
 ---
 
 
