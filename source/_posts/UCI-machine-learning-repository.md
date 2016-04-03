@@ -1,5 +1,5 @@
 ---
-title: UCI-machine-learning-repository
+title: UCI Machine Learning Repository
 date: 2016-01-15 16:46:41
 categories: algorithm
 tags: [Java, Python, Matlab]
@@ -8,8 +8,6 @@ tags: [Java, Python, Matlab]
 ## Datasets Examples for machine learning
 
 Here are the data sets from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) once I sorted and practiced. Some of the abstracts I summarized updated to my github [CUIMachineLearningRepository](https://github.com/snakecy/CUIMachineLearningRepositry).
-
-
 
 Example:
 

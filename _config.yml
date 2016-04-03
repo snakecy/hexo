@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Snakecy's Blog
+title: Snakecy's NOTE
 #subtitle: Topics Of Machine Learning & Big Data
 description: The unexamined life is not worth living. --Socrates
 author: SZhou
@@ -61,6 +61,17 @@ per_page: 10
 pagination_dir: page
 
 
+# 首页显示篇数
+index_generator:
+  per_page: 1
+
+archive_generator:
+  per_page: 10
+  yearly: true
+  monthly: true
+
+tag_generator:
+  per_page: 10
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -70,11 +81,13 @@ theme: next
 Plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
+- hexo-generator-baidu-sitemap
 
 #sitemap
 sitemap:
   path: sitemap.xml
-
+baidusitemap:
+path: baidusitemap.xml
 
 #Feed Atom
 feed:
@@ -87,7 +100,8 @@ feed:
 links_title: Links
 # links
 links:
-  Data Topics: http://snakecy.github.io/topics
+  DataTopics: http://snakecy.github.io/topics
+  Chinabyte: http://www.chinabyte.com/
 
 
 # Deployment

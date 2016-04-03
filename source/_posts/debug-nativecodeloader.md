@@ -16,8 +16,6 @@ export HADOOP_HOME=/home/admin/hadoop
 #export LD_LIBRARY_PATH=$HADOOP_HOME/lib/native
 ```
 
-<!--more-->
-
 
 ``` bash
 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS

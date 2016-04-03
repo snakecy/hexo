@@ -1,5 +1,5 @@
 ---
-title: machine-learning-notes-1
+title: Machine Learning notes (01)
 date: 2016-01-16 00:23:52
 categories: cloud-tech
 tags: [Python, Machine Learning]

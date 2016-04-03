@@ -1,5 +1,5 @@
 ---
-title: algorithm-Sorting-2
+title: Sorting Algorithm (02)
 date: 2016-03-05 01:40:55
 categories: algorithm
 tags: [Java]
@@ -14,7 +14,6 @@ tags: [Java]
 * Insertion Sort (插入排序)
 * Selection Sort (选择排序)
 
-<!--more-->
 
 ### Java实现排序算法
 

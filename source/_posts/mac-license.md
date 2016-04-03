@@ -1,5 +1,5 @@
 ---
-title: mac-license
+title: Mac License
 date: 2016-02-10 00:54:13
 categories: License
 tags: [Mac]

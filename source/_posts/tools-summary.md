@@ -1,11 +1,11 @@
 ---
-title: tools-summary
+title: Tools Summary
 date: 2016-01-12 02:48:57
 categories: open-source
 tags: [Software]
 ---
 
-Summary the tools used in project, essential in big data direction 
+Summary the tools used in project, essential in big data direction
 
 ## Tools
 - Database: MySQL, NOSQL(redis), Hive, HBase

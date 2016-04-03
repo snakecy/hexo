@@ -1,11 +1,10 @@
 ---
-title: algorithm-Binary-Search-01
+title: Binary Search Algorithm (01)
 date: 2016-03-05 01:37:03
 categories: algorithm
 tags: [Java]
 ---
 
-<!-- [TOC] -->
 
 ## Binary Search（二分查找）
 
@@ -15,7 +14,6 @@ tags: [Java]
 2. 键等于中间位置的元素，所以元素找到。
 3. 键大于中间位置的元素，则匹配元素必在右边（如果有的话），于是对右边的区域应用二分搜索。另外，当集合为空，则代表找不到。
 
-<!--more-->
 
 ``` bash
 import java.util.*;

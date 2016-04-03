@@ -23,8 +23,6 @@ then : 127.0.0.1:6379> set test 1
 wget http://download.redis.io/releases/redis-3.0.2.tar.gz
 ```
 
-<!--more-->
-
 
 * Or download
 ``` bash

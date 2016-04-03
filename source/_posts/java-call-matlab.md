@@ -1,11 +1,10 @@
 ---
-title: java-call-matlab
+title: Java call Matlab Method
 date: 2016-03-06 01:49:37
 categories: open-source
 tags: [Java, Matlab]
 ---
 
-[TOC]
 
 ###  环境准备
 
@@ -18,8 +17,6 @@ tags: [Java, Matlab]
         - 设置后，重启matlab才能有效.
 
         - 用getenv JAVA_HOME，在Matlab的命令窗口中试验，看看得到的返回值正确方可说明其对Matlab生效了。
-
-<!--more-->
 
     - ii. Classpath
         - 添加 matlabInstallRoot\toolbox\javabuilder\jar\javabuilder.jar

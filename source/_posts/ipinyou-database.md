@@ -1,5 +1,5 @@
 ---
-title: ipinyou-database
+title: Ipinyou DataSet Description
 date: 2016-03-10 20:35:08
 categories: cloud-tech
 tags: [R]
@@ -20,8 +20,6 @@ Features = {IP,Region,City,Ad exchange,ad slot id,ad slot width, ad slot height,
   - Integrated approach leads to fresher, better predictions
   - Easy translation to production predictions
   - Eases Operational pain
-
-<!--more-->
 
 #### Experiment using R
 

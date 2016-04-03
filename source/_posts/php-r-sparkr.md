@@ -27,7 +27,6 @@ PHP configure
   - Then finished. Ref. at website
   (https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
-<!--more-->
 
 * PHP Server Nginx
   - $ cd nginx/html

@@ -50,7 +50,9 @@ comments: false
 
 ## Summary
 
-I am keen on Scientific Research with Machine Learning & Data Mining in Big Data field, and I am familiar to design mathematical model and optimization algorithm, using mathematical modeling tools to analysis and verify.
+* Keen on Scientific Research with Machine Learning & Data Mining in Big Data Fields
+* Design mathematical model & optimization algorithm
+* Mathematical Modeling
 
 ## Contact
 

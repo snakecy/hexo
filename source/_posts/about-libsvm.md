@@ -1,5 +1,5 @@
 ---
-title: about-libsvm
+title: Libsvm Package
 date: 2016-02-10 01:13:22
 categories: open-source
 tags: [Libsvm, Java]
@@ -10,8 +10,6 @@ About the applications using libsvm tools on different platform.
 [libsvm tutorial](http://jacoxu.com/?p=118)
 
 which can be used on the following platform, such as Java, matlab(64 bit), python, svm-toy.
-
-<!--more-->
 
 
 [liblinear-java-1.95.jar](https://github.com/bwaldvogel/liblinear-java)

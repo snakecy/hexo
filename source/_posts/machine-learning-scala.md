@@ -1,5 +1,5 @@
 ---
-title: machine-learning-scala
+title: Machine Learning with Scala
 date: 2016-03-10 00:26:44
 categories: cloud-tech
 tags: [Scala, Spark]
@@ -15,8 +15,6 @@ Good Example: REST API & Velox
 
 ### Construct project, with SBT & dependencies
 > The reference example project can be found on [my github](https://snakecy.github.io)
-
-<!--more-->
 
 - think-bayes
   - github https://github.com/ruippeixotog/think-bayes-scala

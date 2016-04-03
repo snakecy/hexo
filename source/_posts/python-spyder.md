@@ -23,7 +23,6 @@ sudo make install
 > then run ./python in terminal
 ```
 
-<!--more-->
 
 ### Install Python 3.4.1 on Mac
 

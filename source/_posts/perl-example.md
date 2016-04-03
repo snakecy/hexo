@@ -1,5 +1,5 @@
 ---
-title: perl-example
+title: Perl Demo
 date: 2016-02-11 23:12:07
 categories: open-source
 tags: [Perl]
@@ -21,7 +21,6 @@ tags: [Perl]
 - my $secstr = join("\t\t",@items2[1...$#items2]);
 
 
-<!--more-->
 - perl example:
 
 ``` bash

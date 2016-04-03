@@ -11,8 +11,6 @@ Construct the platform for Big Data project
 
 This paragraph describes the HDFS configure progress on Azure Cloud Server. You need have a azure account to login in and purchase the platform you will perform on. Here is my platform construction details to share with you.
 
-<!--more-->
-
 
 - Unbuntu 14.0 LTS
 
