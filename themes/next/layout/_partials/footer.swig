@@ -21,11 +21,11 @@
 </div>
 
 <span id="busuanzi_container_site_pv">
-  &nbsp; | &nbsp; Total visited <span id="busuanzi_value_site_pv"></span> times
+  &nbsp; | &nbsp; Views <span id="busuanzi_value_site_pv"></span> times
 </span>
 
 <span id="busuanzi_container_site_uv">
-  &nbsp; | &nbsp; Total visited <span id="busuanzi_value_site_uv"></span>
+  &nbsp; | &nbsp; Visited <span id="busuanzi_value_site_uv"></span>
 </span>
 
 {% block footer %}{% endblock %}
