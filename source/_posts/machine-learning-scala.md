@@ -7,10 +7,7 @@ tags: [Scala, Spark]
 
 
 >****************************************************
-Good Example: REST API & Velox
-[PPT](http://www.slideshare.net/dscrankshaw/veloxampcamp5-final)
-[Papre](http://arxiv.org/pdf/1409.3809v2.pdf)
-[Github](https://github.com/amplab/velox-modelserver)
+Good Example: REST API & Velox [PPT](http://www.slideshare.net/dscrankshaw/veloxampcamp5-final), [Papre](http://arxiv.org/pdf/1409.3809v2.pdf), [Github](https://github.com/amplab/velox-modelserver)
 >****************************************************
 
 ### Construct project, with SBT & dependencies
@@ -22,16 +19,13 @@ Good Example: REST API & Velox
   - probability density function of the standard normal distribution & cumulative density function of the standard normal distribution
   - libraryDependencies += "net.ruippeixotog" % "think-bayes_2.11" % "0.1"
 
+<!-- more -->
 - Other libraryDependencies
-  - spark-core_2.10
-  - spark-mllib_2.10
-  - jblas
-
+  spark-core_2.10, spark-mllib_2.10, jblas
 - Using IntelliJ IDEA to package scala with spark
   - The reason of the Scala for Eclipse is not comfortable in using
   - Support code checking, cvs/ant/maven/git
   - JDK, Scala
-
 - Censored regression model, contains 5 scala class
   - Main class -> TestTrainer.scala
   - optimization.scala
@@ -39,7 +33,6 @@ Good Example: REST API & Velox
   - linalg.scala
   - utils.scala
   - build.sbt
-
 
 #### Complie
 

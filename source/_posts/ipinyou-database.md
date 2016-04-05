@@ -14,35 +14,29 @@ Features = {IP,Region,City,Ad exchange,ad slot id,ad slot width, ad slot height,
 
 * RankSorce = CTR * BidPrice
   - [Advertising Calculating](http://sobuhu.com/ml/2013/01/25/r-ctr.html)
-
 * Aim
   - Low-latency and scalale predictions as a service
   - Integrated approach leads to fresher, better predictions
   - Easy translation to production predictions
   - Eases Operational pain
-
-#### Experiment using R
-
+  
+<!-- more -->
+### Experiment using R
 * First //
   - [make-ipinyou-data](https://github.com/wnzhang/make-ipinyou-data)
   - Paper: Real-Time Bidding Benchmarking with iPinYou Dataset
-
 * Second
   - [rtbcontrol](https://github.com/wnzhang/rtbcontrol)
   - Paper: Experiment Code for RTB Feedback Control Techniques
-
 * Third
   - [rtbarbitrage](https://github.com/wnzhang/rtbarbitrage)
   - Paper: Statistical Arbitrage Mining for Display Advertising
-
 * Fourth //
   - [optimal-rtb](https://github.com/wnzhang/optimal-rtb)
   - Paper: Optimal Real-Time Bidding for Display Advertising
-
 * Fifth
   - [KDD2015wpp](https://github.com/wush978/KDD2015wpp)
   - Predicting Winning Price in Real Time Bidding with Censored Data
-
 ### Winning price steps
   - What features should be taken in
   - Considering of the Winning Rate

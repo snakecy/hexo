@@ -21,7 +21,7 @@ tags: [PHP, HTTP]
         Require all granted
         </Directory>
     ```
-
+<!-- more -->
 ### Configure PHP Server
 
 1. Search httpd.conf

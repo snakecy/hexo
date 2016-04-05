@@ -9,27 +9,21 @@ tags: [Java, Matlab]
 ###  环境准备
 
     + Eclipse & Matlab
-
 1. JAVA_HOME
-
     - i. JAVA_HOME (JDK的安装位置 如C:\Program Files\Java\jdk1.5.0)
-
         - 设置后，重启matlab才能有效.
-
         - 用getenv JAVA_HOME，在Matlab的命令窗口中试验，看看得到的返回值正确方可说明其对Matlab生效了。
-
     - ii. Classpath
         - 添加 matlabInstallRoot\toolbox\javabuilder\jar\javabuilder.jar
     - iii. Path
         - 添加%JAVA_HOME%/bin/javac
-
 2. build matlab m-file into a jar
     - a) 在matlab的command窗口，输入 deploytool。会在右侧弹出一个新窗口（Deployment Tool）。
     - b) 在Deployment Tool中，点击new按钮，选择 Matlab Builder for Java 与 Java Package。新建一个工程名字，如flying.prj 。对该工程，要进入其设置对话框，设置其compiler为“matlabInstallRoot\toolbox\javabuilder\jar\javabuilder.jar ”。
     - c) In the Deployment Tool pane, ensure that the Generate Verbose Output option is selected
     - d) 将欲被java调用的.m 文件，（如mydraw.m，其中包括两个参数(x,y)），从Matlab整个界面的左侧工作目录面板，拖拽到Deployment Tool中的新建的类下面的class文件夹下。
     - e) 点击build 按钮，则会在matlab的当前目录下，生成以一个与工程同名的(如flying)文件夹。
-
+<!-- more -->
 3. 编写java函数，准备调用刚刚生成好的flying.jar中的方法。
     - a) 在java工程Test属性的BuildPath中，添加两个jar包：
         - i. matlabroot\toolbox\javabuilder\jar\javabuilder.jar
@@ -73,8 +67,8 @@ tags: [Java, Matlab]
     //注意：a,b最好所有有索引的位置都有值，否则如果没有充分赋值曲线可能会最终折回(0,0)点。
     ```
 5. Matlab程序(.m文件)的修改
-    - a) 找到TestDirectory\ flying.jar所在的位置（因为按照上述步骤的话，.m源文件就在该位置附近）。这个位置，从Eclipse的Package Explore可以用看到。
+    - a) 找到TestDirectory\ flying.jar所在的位置
     - b) 直接修改欲改动的.m文件
-    - c) 打开Matlab, 在Command输入 Deploytool, 在新打开的部署面板中，“打开”该m文件所在的工程，如 flying.prj。
+    - c) 打开Matlab, 在Command输入 Deploytool, 在新打开的部署面板中，“打开”该m文件所在的工程，如flying.prj。
     - d) 选中相应工程下Class文件夹下的.m文件，点击工具栏的Build按钮。
-    - e) 则相应源文件被重新编译。如果按照前面步骤添加的jar包，则编译后新生成的jar包自动替换掉原有的jar。又由于这个jar的位置，已经作为BuildPath告诉了java的相应工程，因此Java端不需要做任何调整，即可正确调用到新修改了内容的matlab方法。
+    - e) 则相应源文件被重新编译。如果按照前面步骤添加的jar包，则编译后新生成的jar包自动替换掉原有的jar。
