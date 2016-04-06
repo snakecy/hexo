@@ -106,7 +106,12 @@ links:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+#   type: git
+#   repository: https://github.com/snakecy/snakecy.github.io.git
+#   branch: master
 deploy:
   type: git
-  repository: https://github.com/snakecy/snakecy.github.io.git
-  branch: master
+  repo:
+    github: http://github.com/snakecy/snakecy.github.io.git,master
+    coding: https://git.coding.net/snakecy/snakecy.git,master
