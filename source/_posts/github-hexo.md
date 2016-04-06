@@ -1,5 +1,5 @@
 ---
-title: Build Blog with Github & Hexo
+title: Build Blog with Github and Hexo
 date: 2016-01-09
 categories: web-building
 tags: [Hexo + Github, Mac]
