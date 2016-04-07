@@ -13,11 +13,11 @@ Good Example: REST API & Velox [PPT](http://www.slideshare.net/dscrankshaw/velox
 ### Construct project, with SBT & dependencies
 > The reference example project can be found on [my github](https://snakecy.github.io)
 
-- think-bayes
-  - github https://github.com/ruippeixotog/think-bayes-scala
-  - Repository  https://maven-repository.com/artifact/net.ruippeixotog/think-bayes_2.11/0.1
+- think-bayes [[github]](https://github.com/ruippeixotog/think-bayes-scala), [[Repository]](https://maven-repository.com/artifact/net.ruippeixotog/think-bayes_2.11/0.1)
   - probability density function of the standard normal distribution & cumulative density function of the standard normal distribution
+``` bash
   - libraryDependencies += "net.ruippeixotog" % "think-bayes_2.11" % "0.1"
+```
 
 <!-- more -->
 - Other libraryDependencies
