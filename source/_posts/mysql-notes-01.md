@@ -14,6 +14,7 @@ tags: [MySQL]
 If you lose this password, please consult the section How to Reset the Root Password in the MySQL reference manual.
 ```
 
+<!-- more -->
 ### Configure Env.
 In terminal, type in “sudo vi /etc/bashrc”，then configure mysql and mysqladmin path in bash.
 
