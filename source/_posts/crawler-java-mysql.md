@@ -22,5 +22,5 @@ All codes are contained in three differents file, CrawlerMain.java, httpGet.java
 
 ### Demo using Java and MySQL to Crawler my blog
 
-The blog crawler program code using Java and MySQL is uploaded to my [github](https://snakecy.github.io/crawler-java-mysql).
+The blog crawler program code using Java and MySQL is uploaded to my [github](https://github.com/snakecy/crawler-java-mysql).
 Then, with the results, I display it using nodejs.
