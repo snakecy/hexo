@@ -4,30 +4,28 @@ type: "about"
 comments: false
 ---
 
-
-
 ## Research Fields
 * Advertising
-  - Partial learning [Project](https://github.com/snakecy/R-Projects)
+  - Partial learning [**Project**](https://github.com/snakecy/R-Projects)
 * WSN(Wireless Sensor Networks)
-  - Network Deployment Optimized & Fault Detection [Paper](http://www.buptjournal.cn/CN/abstract/abstract2035.shtml)
+  - Network Deployment Optimized & Fault Detection [**Paper**](http://www.buptjournal.cn/CN/abstract/abstract2035.shtml)
 * Traffic
-  - Traffic Simulation & Nautical Risk Assessment [Paper](http://www.smujournal.cn/ch/reader/view_abstract.aspx?file_no=201007140164)
+  - Traffic Simulation & Nautical Risk Assessment [**Paper**](http://www.smujournal.cn/ch/reader/view_abstract.aspx?file_no=201007140164)
 
 ## Achievement
-* Mathematical Modeling & Data Mining [Honor](http://www.shumo.com/home/wp-content/uploads/downloads/2013/11/%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%84%E5%AE%A1%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA%E5%90%8D%E5%8D%95.pdf)
+* Mathematical Modeling & Data Mining [**Honor**](http://www.shumo.com/home/wp-content/uploads/downloads/2013/11/%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E6%A8%A1%E7%AB%9E%E8%B5%9B%E8%AF%84%E5%AE%A1%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA%E5%90%8D%E5%8D%95.pdf)
 
 ## Fundamental Theory
 * Graph Theory
 * Neural Network
 * Regression
+* Classification
 
 ## cutting-edge tech
-* Big Data/Machine Learning
+* Big Data/Machine Learning，Natural Language Processing
   - Apache Spark, Hadoop
   - Scala, Java, SparkR
   - Json Parser Skills (smart-json)
-* Natural Language Processing
 * Algorithm
   - scikit-learn for Python, MLlib for Scala
 * Data Mining
@@ -36,10 +34,9 @@ comments: false
   - Mysql
 * Script
   - perl shell, PHP
-* Basic Skills
   - Ruby, Node.js, D3.js, JavaScript
 
-> The related project can be found on [my github](https://github.com/snakecy)
+>> The related project can be found on [my github](https://github.com/snakecy/)
 
 ## Summary
 
@@ -49,4 +46,4 @@ comments: false
 
 ## Contact
 
-E-mail me: <andy21.chow@gmail.com>
+**E-mail me**: <andy21.chow@gmail.com>
